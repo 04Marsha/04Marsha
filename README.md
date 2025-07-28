@@ -16,9 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=04Marsha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=04Marsha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=04Marsha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=04Marsha&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 🎯 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/04Marsha?theme=chartreuse&font=Noto%20Sans%20Khmer&ext=heatmap)
