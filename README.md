@@ -1,8 +1,8 @@
-💻 Computer Science student at MSIT <br>
-🌱 Currently learning full-stack development and machine learning <br>
-🧠 Solving Data Structures and Algorithms problems daily <br>
-📚 Firm believer in continuous learning and hands-on experience <br>
-🌐 Open to internships and collaborations
+💻 Computer Science undergraduate at Meghnad Saha Institute of Technology (MSIT)
+🌱 Passionate about full-stack web development and exploring machine learning
+🧠 Consistently solving Data Structures and Algorithms problems to strengthen core logic
+📚 Strong advocate for continuous learning through hands-on projects and real-world applications
+🌐 Actively seeking internships and collaborative opportunities in tech-driven environments
 
 
 
